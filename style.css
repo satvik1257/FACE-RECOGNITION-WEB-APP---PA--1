@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    color: white;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+    background-color: lightcoral;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
